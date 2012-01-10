@@ -1,0 +1,11 @@
+C:\Users\Kolesias123\Documents\InExplorer\bin\Debug\InExplorer.exe
+C:\Users\Kolesias123\Documents\InExplorer\bin\Debug\InExplorer.pdb
+C:\Users\Kolesias123\Documents\InExplorer\bin\Debug\WebKitBrowser.dll
+C:\Users\Kolesias123\Documents\InExplorer\bin\Debug\WebKit.Interop.dll
+C:\Users\Kolesias123\Documents\InExplorer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kolesias123\Documents\InExplorer\obj\x86\Debug\InExplorer.Properties.Resources.resources
+C:\Users\Kolesias123\Documents\InExplorer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Kolesias123\Documents\InExplorer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Kolesias123\Documents\InExplorer\obj\x86\Debug\InExplorer.exe
+C:\Users\Kolesias123\Documents\InExplorer\obj\x86\Debug\InExplorer.pdb
+C:\Users\Kolesias123\Documents\InExplorer\obj\x86\Debug\InExplorer.Explorer.resources
